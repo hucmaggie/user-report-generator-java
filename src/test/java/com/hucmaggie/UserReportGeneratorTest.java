@@ -1,4 +1,4 @@
-package com.moveworks;
+package com.hucmaggie;
 
 import static org.junit.Assert.assertTrue;
 
